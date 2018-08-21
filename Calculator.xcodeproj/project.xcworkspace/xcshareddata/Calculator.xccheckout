@@ -10,29 +10,29 @@
 	<string>Calculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>325DA3BB-E50D-4426-B188-9C0829DE25DF</key>
+		<key>9AFCAC80D8C1AC7C99A5F5F00BEF01701BD9EDCC</key>
 		<string>https://github.com/rbarraud/Calculator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Calculator.xcodeproj/project.xcworkspace</string>
+	<string>Calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>325DA3BB-E50D-4426-B188-9C0829DE25DF</key>
+		<key>9AFCAC80D8C1AC7C99A5F5F00BEF01701BD9EDCC</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/rbarraud/Calculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>325DA3BB-E50D-4426-B188-9C0829DE25DF</string>
+	<string>9AFCAC80D8C1AC7C99A5F5F00BEF01701BD9EDCC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>325DA3BB-E50D-4426-B188-9C0829DE25DF</string>
+			<string>9AFCAC80D8C1AC7C99A5F5F00BEF01701BD9EDCC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Calculator</string>
 		</dict>
